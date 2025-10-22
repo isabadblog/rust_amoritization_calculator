@@ -1,0 +1,1 @@
+C:\Users\aefte\onedrive\documents\repos\rust\rust_amoritization_calculator\target\debug\rust_amoritization_calculator.exe: C:\Users\aefte\onedrive\documents\repos\rust\rust_amoritization_calculator\src\main.rs
